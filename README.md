@@ -1,3 +1,11 @@
+<br />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/calvin2378/calvin2378/673033a5c2a136a32cf0fd58869ae4e25dc6952f/IMG_0689.PNG" alt="ALVA GROUP Banner" />
+</p>
+
+<br />
+
 # Kingsley Sunday Asukwo
 
 Building premium digital products focused on design, usability, and real-world impact.
