@@ -1,38 +1,51 @@
-👋🏽 Hi, I’m Kingsley Sunday Asukwo
+# Kingsley Sunday Asukwo
 
-🚀 Founder of ALVA — Style. Culture. Positivity.
-💻 Passionate about technology, design, and building innovative brands
-📍 Based in Nigeria
+Building premium digital products focused on design, usability, and real-world impact.
 
-⸻
+---
 
-🌟 About Me
-	•	🔥 Currently building ALVA, a clothing & lifestyle brand.
-	•	💳 Exploring fintech integration with Paystack and e-commerce systems.
-	•	🎨 Interested in modern UI/UX, glassmorphism, and clean branding.
-	•	🌱 Learning and experimenting with NFC technology and smart devices.
+## ALVA Group
 
-⸻
+ALVA Group is the parent company behind a growing ecosystem of digital products and brands.  
+Focused on innovation, culture, and scalable solutions, ALVA is built to create meaningful digital experiences.
 
-🛠️ Tech & Tools
-	•	Frontend: HTML, CSS, JavaScript, TailwindCSS
-	•	Frameworks: React, Next.js
-	•	Payments: Paystack API
-	•	Other Interests: NFC, IoT, Smart Gadgets
+---
 
-⸻
+## Products
 
-📌 Current Projects
-	•	ALVA Website 🌐
-	•	Smart ID Card Holder (USB + NFC) – a student-friendly hardware innovation
+### EduHub  
+An education-focused platform designed to make learning more accessible, structured, and engaging for students.
 
-⸻
+### ALVA Eats  
+A digital platform connecting food vendors and customers through a seamless and efficient experience.
 
-📩 Connect With Me
-	•	📧 Email: calvinsunday066@gmail.com
+---
 
-⸻
+## What I Do
 
-⚡ Fun Fact
+Frontend Development  
+User Interface Design  
+Brand Strategy  
+Digital Product Development  
 
-I believe the future of fashion is not just style, but also technology woven into everyday life.
+---
+
+## Selected Work
+
+Each project is built with attention to detail, clean design systems, and scalability in mind.  
+Focused on delivering not just functionality, but experience.
+
+---
+
+## Philosophy
+
+Simplicity. Clarity. Impact.  
+
+I believe great products are built at the intersection of design, functionality, and intention.
+
+---
+
+## Contact
+
+Email: calvinsunday066@gmail.com
+X: https://x.com/calvin202265559?s=21
